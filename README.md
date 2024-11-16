@@ -58,26 +58,3 @@ Contributions are welcome! If you'd like to make improvements, please fork the r
 
 License
 This project is for personal or educational use and does not include a specific license.
-
-markdown
-Copy code
-
----
-
-### Steps to Make It Functional
-
-1. **Save the Screenshot:**
-   - Place your screenshot (e.g., `brand-page.png`) in the `src/assets` folder.
-
-2. **Update Repository URL:**
-   - Replace `<repository-url>` in the `README.md` with the URL of your Git repository.
-
-3. **Commit the Changes:**
-   - Run:
-     ```bash
-     git add src/assets/brand-page.png README.md
-     git commit -m "Add README and brand page screenshot"
-     git push origin main
-     ```
-
-Now your repository will have a properly formatted `README.md` file with all the necessary details!
